@@ -36,3 +36,10 @@ sam_2018_cpt_radf.py:
 Python dictionaires of 2018 CPT codes as keys and short descriptions as values. There is a dictionary for each
 radiology modality. ie. CT, FLUORO, MAMMO, MRI,  NUCLEAR, PET, US, XRAY  
 
+INSTRUCTIONS:
+------------
+1) Open and run through all cells in "RADAnalysisPrototype.ipynb" notebook which creates 3 patient report files from
+   reading and processing the "RADORUSample.hl7" file.
+2) Open and run through all cells in "NLP_Play_CPT_MRI.ipynb" to see research and prototyping of several NLP techniques
+   applied to one of the patient rad report file (ie. 'PAT3234567890_20110616163020_RADRPT.txt')
+   
